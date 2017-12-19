@@ -1,4 +1,4 @@
-# TeraSort-on-Hadoop-Spark
+# TeraSort-on-Hadoop vs Spark
 CS553 Cloud Computing. Performing Terasort on EC2 in AWS. Methods use for TeraSorting
 
 1.Shared Memory (External Sort using mergesort)  
