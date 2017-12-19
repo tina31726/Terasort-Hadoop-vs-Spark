@@ -1,0 +1,10 @@
+<configuration>
+  <property>
+    <name>mapreduce.jobtracker.address</name>
+    <value>ec2-18-217-94-14.us-east-2.compute.amazonaws.com:54311</value>
+  </property>
+  <property>
+    <name>mapreduce.framework.name</name>
+    <value>yarn</value>
+  </property>
+</configuration>

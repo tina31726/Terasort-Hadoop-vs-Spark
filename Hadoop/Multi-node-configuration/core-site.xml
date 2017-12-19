@@ -1,0 +1,6 @@
+ <configuration>
+  <property>
+    <name>fs.defaultFS</name>
+    <value>hdfs://ec2-18-217-94-14.us-east-2.compute.amazonaws.com:9000</value>
+  </property>
+</configuration>

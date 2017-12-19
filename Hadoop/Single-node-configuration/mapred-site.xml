@@ -1,0 +1,22 @@
+<configuration>
+<property>
+    <name>mapreduce.map.memory.mb</name>
+    <value>-Xmx4g</value>
+</property>
+<property>
+    <name>mapreduce.reduce.memory.mb</name>
+    <value>-Xmx4g</value>
+</property>
+ <property>
+    <name>mapreduce.map.java.opts</name>
+    <value>-Xmx4g</value>
+</property>
+<property>
+    <name>mapreduce.reduce.java.opts</name>
+    <value>-Xmx4g</value>
+</property>  
+    <property>
+        <name>mapreduce.job.tracker</name>
+<value>ec2-52-14-11-189.us-east-2.compute.amazonaws.com</value>
+    </property>
+</configuration>
